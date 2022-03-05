@@ -8,7 +8,6 @@
     margin-top:8px;
 }
 #head-section img {
-
     border-radius: 20px;
 }
 #head-text {
@@ -35,11 +34,13 @@
     height: 60%;
     margin: auto;
     overflow-y: scroll;
+    overflow-x: hidden;
     justify-content: center;
 }
 .link-icon {
-    height: 50px;
+    height: 35px;
     background: inherit;
+    margin: auto;
 }
 a.link-a {
     width: 100%;
@@ -62,6 +63,14 @@ a.link-a {
     text-transform: uppercase;
     color: #e2f8ff;
     letter-spacing: 1px;
+    width: 80%;
+}
+.link-button p {
+    margin: 0;
+    text-transform: initial;
+    font-weight: normal;
+    padding-top: 2px;
+    font-size: 12px;
 }
 
 #socials {
@@ -94,5 +103,8 @@ body {
     color: white;
     justify-content:space-around;
     height: 40px;
+}
+#break-section p {
+    margin-top: 12px;
 }
 
