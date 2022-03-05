@@ -7,9 +7,34 @@ const links = [{
     "title": "Github",
     "src": "img/github.png"
 },{
-    "link": "https://tiktok.com/witcheswhocode",
+    "link": "https://tiktok.com/@witcheswhocode",
     "title": "TikTok",
     "src": "img/tiktok.png"
+},{
+    "link": "https://tiktok.com/@witcheswhocode",
+    "title": "TikTok",
+    "src": "img/tiktok.png"
+},{
+    "link": "https://tiktok.com/@witcheswhocode",
+    "title": "TikTok",
+    "src": "img/tiktok.png"
+},{
+    "link": "https://tiktok.com/@witcheswhocode",
+    "title": "TikTok",
+    "src": "img/tiktok.png"
+}];
+const socials = [{
+    "link": "https://twitter.com/witcheswhocode",
+    "title": "Twitter",
+    "src": "img/twitter-pink.png"
+},{
+    "link": "https://github.com/witcheswhocode",
+    "title": "Github",
+    "src": "img/github-pink.png"
+},{
+    "link": "https://tiktok.com/@witcheswhocode",
+    "title": "TikTok",
+    "src": "img/tiktok-pink.png"
 }];
 
 // Get the element you want to add your new element before or after
@@ -22,6 +47,7 @@ links.forEach(element => {
 
     // Add text to the new element
     a.href = element.link;
+    a.classList.add("link-a");
     icon.src = element.src;
     icon.classList.add("link-icon");
     button.innerHTML = element.title;
@@ -34,4 +60,18 @@ links.forEach(element => {
 
 });
 
+var target = document.querySelector('#socials');
 
+socials.forEach(element => {
+    var a = document.createElement('a');
+    var icon = document.createElement('img');
+
+    // Add text to the new element
+    a.href = element.link;
+    icon.src = element.src;
+
+    // Insert the element before our target element
+    a.appendChild(icon);
+    target.appendChild( a );
+
+});

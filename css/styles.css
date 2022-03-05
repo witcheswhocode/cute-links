@@ -31,14 +31,17 @@
 
 #links {
     width: 80%;
+    padding: 0 30px;
+    height: 60%;
     margin: auto;
+    overflow-y: scroll;
     justify-content: center;
 }
 .link-icon {
     height: 50px;
     background: inherit;
 }
-a {
+a.link-a {
     width: 100%;
     display: inline-flex;
     justify-content: center;
@@ -61,6 +64,16 @@ a {
     letter-spacing: 1px;
 }
 
+#socials {
+    width: 100%;
+    text-align: center;
+}
+#socials a img {
+    height: 30px;
+    margin: 8px;
+    color: #FF38A7;
+}
+
 body {
     background: #d5c6ff;
     background: linear-gradient(to left,rgba(255,150,246,.8),rgba(91,149,213,.8));
@@ -70,9 +83,16 @@ body {
     height: 666px;
     margin: auto;
 }
+#bottom {
+    
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 #break-section {
     display: flex;
     color: white;
     justify-content:space-around;
+    height: 40px;
 }
 
