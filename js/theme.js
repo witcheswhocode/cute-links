@@ -1,7 +1,7 @@
 /// *****
 /// Edit the variables below to customize the theme.
 /// See this website for inspiration: https://www.sabinanore.com/design/html-special-symbols/
-var decor = "&#10047;";
+var decor = "&#9760;";
 var numDecor = 13;
 /// *****
 

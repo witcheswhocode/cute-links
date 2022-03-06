@@ -1,12 +1,11 @@
 :root {
-    --main-bg-color: linear-gradient(to left,rgba(255,150,246,.8),rgba(91,149,213,.8));
-    --header-text-color: #FF38A7;
-    --break-icon-color: #e2f8ff;
-    --social-button-color: #FF38A7;
-    --link-button-color: #FF38A7; 
-    --link-icon-color: #e2f8ff;
-    --link-button-outline: #e2f8ff; 
-    --link-button-shadow: #e838a7a6; 
+    --main-bg-color: linear-gradient(to left,rgb(170 0 170),rgb(2 26 92));
+    --header-text-color: #fff;
+    --break-icon-color: #7fff00;
+    --link-button-color: #1c1c1c; 
+    --link-icon-color: #fff;
+    --link-button-outline: #7fff00; 
+    --link-button-shadow: #80ff0079; 
 }
 
 #head-section {
@@ -88,7 +87,6 @@ a.link-a {
 #socials a img {
     height: 30px;
     margin: 8px;
-    color: var(--social-button-color);
 }
 
 body {
