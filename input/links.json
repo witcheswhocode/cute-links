@@ -1,7 +1,7 @@
 [{
     "link": "https://projects.capradio.org/california-fire-history",
     "title": "California Fire History",
-    "desc": "This is an interactive map to show wildfire history. Coded by me.",
+    "desc": "An interactive map that shows fire history. Coded by me.",
     "src": "img/fire.png"
 },{
     "link": "https://github.com/witcheswhocode/cute-links",
