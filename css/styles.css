@@ -1,11 +1,40 @@
+/***
+Edit the variables in root to change the theme. Uncomment the themes to see other examples.
+Play with the colors and make it yours! 
+***/ 
 :root {
+    /* FLOWER THEME */
     --main-bg-color: linear-gradient(to left,rgba(255,150,246,.8),rgba(91,149,213,.8));
     --header-text-color: #FF38A7;
     --break-icon-color: #e2f8ff;
+    --break-icon-size: 24px;
     --link-button-color: #FF38A7; 
     --link-icon-color: #e2f8ff;
     --link-button-outline: #e2f8ff; 
-    --link-button-shadow: #e838a7a6; 
+    --link-button-shadow: #e838a7a6;
+    /* END FLOWER THEME */
+
+    /* SKULL THEME */
+    /*--main-bg-color: linear-gradient(to left,rgb(170 0 170),rgb(2 26 92));
+    --header-text-color: #fff;
+    --break-icon-color: #7fff00;
+    --break-icon-size: 24px;
+    --link-button-color: #1c1c1c; 
+    --link-icon-color: #fff;
+    --link-button-outline: #7fff00; 
+    --link-button-shadow: #80ff0079;  */
+    /* END SKULL THEME */
+
+    /* SUN THEME */
+    /*--main-bg-color: linear-gradient(to left,rgba(253, 255, 150, 0.8),#5b95d5cc);
+    --header-text-color: #4977ab;
+    --break-icon-color: #f98424;
+    --break-icon-size: 24px;
+    --link-button-color: #4977ab; 
+    --link-icon-color: white;
+    --link-button-outline: white; 
+    --link-button-shadow: #f9842481; */
+    /* END SUN THEME */
 }
 
 #head-section {
@@ -55,7 +84,7 @@ a.link-a {
     display: inline-flex;
     justify-content: center;
     margin-top: 16px;
-    margin-bottom: 16px;
+    margin-bottom: 8px;
     border-bottom: none;
     box-shadow: 10px 7px 41px 7px var(--link-button-shadow);
     Background-color: var(--link-button-color);
@@ -103,8 +132,6 @@ body {
     margin: auto;
 }
 #bottom {
-    
-    position: fixed;
     bottom: 0;
     width: inherit;
 }
@@ -113,8 +140,10 @@ body {
     color: var(--break-icon-color);
     justify-content:space-around;
     height: 40px;
+    margin-bottom: 4px;
 }
 .break-section p {
     margin-top: 12px;
+    font-size: var(--break-icon-size);
 }
 

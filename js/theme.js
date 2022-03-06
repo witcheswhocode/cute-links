@@ -1,7 +1,9 @@
 /// *****
-/// Edit the variables below to customize the theme.
+/// Edit the variables below to customize the theme. Uncomment the decor variable to match css themes.
 /// See this website for inspiration: https://www.sabinanore.com/design/html-special-symbols/
-var decor = "&#10047;";
+var decor = "&#10047;"; // FLOWER THEME
+//var decor = "&#9760;"; // SKULL THEME
+//var decor = "&#9728;"; // SUN THEME
 var numDecor = 13;
 /// *****
 
