@@ -1,4 +1,4 @@
-# Personal List of Links
+# ✧･ﾟ: *✧･ﾟ:* Cute *:･ﾟ✧*:･ﾟ✧ List of Links
 
 This is for people who want to share their links (without using LinkedTree). With little knowledge of code, you can create a basic list of links and style it yourself. Follow the instructions and make it yours!
 
