@@ -5,6 +5,9 @@ var decor = "&#10047;"; // FLOWER THEME
 //var decor = "&#9760;"; // SKULL THEME
 //var decor = "&#9728;"; // SUN THEME
 var numDecor = 13;
+var h2Text = "Liz Anderson";
+var h4aText = "Web developer";
+var h4bText = "Data lover";
 /// *****
 
 // Get all page breaks and add decor
@@ -16,3 +19,16 @@ breaks.forEach(element => {
         element.appendChild(p);
     }
 });
+
+// Get header text section and add headers
+var headText = document.querySelector("#head-text");
+var h2 = document.createElement("h2");
+var h4a = document.createElement("h4");
+var h4b = document.createElement("h4");
+h2.innerText = h2Text;
+h4a.innerText = h4aText;
+h4b.innerText = h4bText;
+
+headText.appendChild(h2);
+headText.appendChild(h4a);
+headText.appendChild(h4b);
