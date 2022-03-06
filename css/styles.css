@@ -76,7 +76,7 @@ Play with the colors and make it yours!
 .link-icon {
     height: 35px;
     background: inherit;
-    margin: auto;
+    margin: auto auto auto 4px;
 }
 a.link-a {
     width: 100%;
