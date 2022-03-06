@@ -94,6 +94,11 @@ a.link-a {
 body {
     background: var(--main-bg-color);
 }
+
+::-webkit-scrollbar {
+    display: none;
+}
+
 #container {
     width: 375px;
     height: 666px;
