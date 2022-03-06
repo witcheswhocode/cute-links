@@ -22,7 +22,7 @@ Play with the colors and make it yours!
     --link-button-color: #1c1c1c; 
     --link-icon-color: #fff;
     --link-button-outline: #7fff00; 
-    --link-button-shadow: #80ff0079;  */
+    --link-button-shadow: #80ff0079; */ 
     /* END SKULL THEME */
 
     /* SUN THEME */
@@ -67,11 +67,10 @@ Play with the colors and make it yours!
 
 #links {
     width: 80%;
-    padding: 0 30px;
+    padding: 0 40px;
     height: 60%;
     margin: auto;
     overflow-y: scroll;
-    overflow-x: hidden;
     justify-content: center;
 }
 .link-icon {
@@ -90,7 +89,7 @@ a.link-a {
     Background-color: var(--link-button-color);
     border: 1px solid var(--link-button-outline);
     text-decoration: none;
-    padding: 8px 0 8px 0;
+    padding: 8px 4px 8px 4px;
 }
 .link-button {
     background: inherit;
@@ -99,7 +98,7 @@ a.link-a {
     text-transform: uppercase;
     color: var(--link-icon-color);
     letter-spacing: 1px;
-    width: 80%;
+    width: 100%;
 }
 .link-button p {
     margin: 0;
