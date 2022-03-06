@@ -1,10 +1,20 @@
 [{
-    "link": "https://projects.capradio.org/california-fire-history",
-    "title": "California Fire History",
-    "desc": "This is an interactive map to show wildfire history.",
-    "src": "img/fire.png"
+    "link": "https://github.com/witcheswhocode/cute-links",
+    "title": "Code for This Website",
+    "desc": "This was built by me, fork the repo and customize your own!",
+    "src": "img/github.png"
 },{
-    "link": "https://github.com/witcheswhocode/personal-links",
+    "link": "https://github.com/witcheswhocode/cute-links",
+    "title": "Code for This Website",
+    "desc": "This was built by me, fork the repo and customize your own!",
+    "src": "img/github.png"
+},{
+    "link": "https://www.tiktok.com/@witcheswhocode/video/7071307087178976558",
+    "title": "Fried Potato Balls",
+    "desc": "TikTok of me making delicious food from leftovers.",
+    "src": "img/tiktok.png"
+},{
+    "link": "https://github.com/witcheswhocode/cute-links",
     "title": "Code for This Website",
     "desc": "This was built by me, fork the repo and customize your own!",
     "src": "img/github.png"
