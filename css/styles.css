@@ -15,14 +15,14 @@ Play with the colors and make it yours!
     /* END FLOWER THEME */
 
     /* SKULL THEME */
-    --main-bg-color: linear-gradient(to left,rgb(170 0 170),rgb(2 26 92));
+    /*--main-bg-color: linear-gradient(to left,rgb(170 0 170),rgb(2 26 92));
     --header-text-color: #fff;
     --break-icon-color: #7fff00;
     --break-icon-size: 24px;
     --link-button-color: #1c1c1c; 
     --link-icon-color: #fff;
     --link-button-outline: #7fff00; 
-    --link-button-shadow: #80ff0079;  
+    --link-button-shadow: #80ff0079;*/   
     /* END SKULL THEME */
 
     /* SUN THEME */
@@ -35,6 +35,28 @@ Play with the colors and make it yours!
     --link-button-outline: white; 
     --link-button-shadow: #f9842481;*/ 
     /* END SUN THEME */
+
+    /* RED GLITTER THEME */
+    /*--main-bg-color: linear-gradient(to left,rgb(110 10 10),rgb(16 16 16));
+    --header-text-color: #fff;
+    --break-icon-color: #ff000087;
+    --break-icon-size: 24px;
+    --link-button-color: #1c1c1c;
+    --link-icon-color: #fff;
+    --link-button-outline: #ff8e00;
+    --link-button-shadow: #ff7b004d;*/
+    /* END RED GLITTER THEME */
+
+    /* PURPLE GLITTER THEME */
+    --main-bg-color: linear-gradient(to left,#650a6e,rgb(16 16 16));
+    --header-text-color: #fff;
+    --break-icon-color: #f9ff0087;
+    --break-icon-size: 24px;
+    --link-button-color: #e2f8ff;
+    --link-icon-color: rgb(101 10 110);
+    --link-button-outline: #f9ff00fa;
+    --link-button-shadow: #f6ff004d;
+    /* END PURPLE GLITTER THEME */
 }
 
 #head-section {
