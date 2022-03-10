@@ -12,4 +12,14 @@ This is for people who want to share their links (without using LinkedTree). Wit
 6. Add your square portrait to `img/`, find the img tag in `index.html` if you need to edit it fit your needs.
 7. Once you are happy with your links, publish to Github and set up Github Pages by going to Settings>Pages. You will need to make this repo public in order to do so.
 
+## Examples of ✧･ﾟ: *✧･ﾟ:* cute *:･ﾟ✧*:･ﾟ✧ designs
+
+The cute html/emojis may show up differently depending on device. You can customize the number of emojis across the page, default is 13.
+
+![glitter layout](https://github.com/witcheswhocode/cute-links/blob/trunk/cute_links_0.jpg?raw=true)
+![skull layout](https://github.com/witcheswhocode/cute-links/blob/trunk/cute_links_1.jpg?raw=true)
+![sun layout](https://github.com/witcheswhocode/cute-links/blob/trunk/cute_links_2.jpg?raw=true)
+![flower layout](https://github.com/witcheswhocode/cute-links/blob/trunk/cute_links_3.jpg?raw=true)
+
+
 *This code was written by [Liz Anderson](https://twitter.com/witcheswhocode). If you like it or use it, let me know!*
