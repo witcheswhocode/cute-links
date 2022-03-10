@@ -16,7 +16,7 @@ This is for people who want to share their links (without using LinkedTree). Wit
 
 The cute html/emojis may show up differently depending on device. You can customize the number of emojis across the page, default is 13.
 
-![glitter layout](https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_0.jpg?raw=true | width=300)
+<img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_0.jpg?raw=true" width="300" alt="glitter layout">
 ![skull layout](https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_1.jpg?raw=true | width=300)
 ![sun layout](https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_2.jpg?raw=true | width=300)
 ![flower layout](https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_3.jpg?raw=true | width=300)
