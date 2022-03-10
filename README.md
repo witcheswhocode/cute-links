@@ -16,6 +16,6 @@ This is for people who want to share their links (without using LinkedTree). Wit
 
 The cute html/emojis may show up differently depending on device. You can customize the number of emojis across the page, default is 13.
 
-<img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_0.jpg?raw=true" width="300" alt="glitter layout"><img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_1.jpg?raw=true" width="300" alt="skull layout"><img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_2.jpg?raw=true" width="300" alt="sun layout"><img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_3.jpg?raw=true" width="300" alt="flower layout">
+<img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_0.jpg?raw=true" width="200" alt="glitter layout"><img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_1.jpg?raw=true" width="200" alt="skull layout"><img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_2.jpg?raw=true" width="200" alt="sun layout"><img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_3.jpg?raw=true" width="200" alt="flower layout">
 
 *This code was written by [Liz Anderson](https://twitter.com/witcheswhocode). If you like it or use it, let me know!*
