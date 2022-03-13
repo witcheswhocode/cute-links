@@ -18,4 +18,4 @@ The cute html/emojis may show up differently depending on device. You can custom
 
 <img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_0.jpg?raw=true" width="200" alt="glitter layout"><img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_1.jpg?raw=true" width="200" alt="skull layout"><img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_2.jpg?raw=true" width="200" alt="sun layout"><img src="https://github.com/witcheswhocode/cute-links/blob/trunk/img/cute_links_3.jpg?raw=true" width="200" alt="flower layout">
 
-*This code was written by [Liz Anderson](https://twitter.com/witcheswhocode). If you like it or use it, let me know!*
+*This code was written by [Liz Anderson](https://twitter.com/witcheswhocode). See how she uses cute links [on her website](https://lizanderson.dev). If you like it or use it, let me know!*
