@@ -4,11 +4,6 @@
     "desc": "A collection song parallels and analyses by Taylor Swift.",
     "src": "img/snake.png"
 },{
-    "link": "http://tswift.rocks/#writers",
-    "title": "Taylor Swift Songwriters",
-    "desc": "See how Taylor indeed writes her own music and who with.",
-    "src": "img/music-record-xxl.png"
-},{
     "link": "https://projects.capradio.org/california-fire-history",
     "title": "California Fire History",
     "desc": "An interactive map that shows fire history. Coded by me.",
