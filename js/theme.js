@@ -7,8 +7,8 @@
 var decor = "*:･ﾟ✧*:･ﾟ✧";
 var numDecor = 3;
 var h2Text = "Liz Anderson";
-var h4aText = "Web developer";
-var h4bText = "Data lover";
+var h4aText = "indie developer";
+var h4bText = "open for work";
 /// *****
 
 // Get all page breaks and add decor
